@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="7e6304cf-bc7a-43d1-adbd-d7bbb4831911" ChangeDateTime="08/29/2022 17:24:04">
+    <Property Name="ElementName" Value="[dbo].[Brands].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Brands]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BrandId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="8aa6b9cd-2fc5-478d-b12a-9fa29d14ba41" ChangeDateTime="08/29/2022 17:24:33">
+    <Property Name="ElementName" Value="[dbo].[Cars].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Cars]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="CarId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="33fc21e5-fa12-4f77-9f02-6fb0659b2457" ChangeDateTime="08/29/2022 17:25:15">
+    <Property Name="ElementName" Value="[dbo].[Colors].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Colors]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ColorId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f805fdbb-3d33-42eb-b2b8-324cec1c3f9a" ChangeDateTime="08/29/2022 19:38:06">
+    <Property Name="ElementName" Value="[dbo].[Cars].[ BrandId ]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Cars]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BrandId " />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="a56197ad-6b1b-43ee-b616-3dcd764ba245" ChangeDateTime="08/29/2022 19:45:58">
+    <Property Name="ElementName" Value="[dbo].[Cars].[BrandId ]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Cars]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="BrandId" />
+  </Operation>
+</Operations>

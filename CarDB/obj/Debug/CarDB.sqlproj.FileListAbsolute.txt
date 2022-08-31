@@ -1,0 +1,8 @@
+C:\Users\Yusuf\source\repos\CarProject\CarDB\bin\Debug\CarDB.dacpac
+C:\Users\Yusuf\source\repos\CarProject\CarDB\obj\Debug\CarDB.sqlproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\CarProject\CarDB\obj\Debug\Model.xml
+C:\Users\Yusuf\source\repos\CarProject\CarDB\obj\Debug\refactor.xml
+C:\Users\Yusuf\source\repos\CarProject\CarDB\obj\Debug\postdeploy.sql
+C:\Users\Yusuf\source\repos\CarProject\CarDB\obj\Debug\predeploy.sql
+C:\Users\Yusuf\source\repos\CarProject\CarDB\obj\Debug\CarDB.dll
+C:\Users\Yusuf\source\repos\CarProject\CarDB\obj\Debug\CarDB.pdb
